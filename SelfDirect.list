@@ -1,0 +1,23 @@
+# ip端
+# VPS
+# RR
+IP-CIDR,142.171.114.205/22,no-resolve
+# EC2-HK
+IP-CIDR,18.162.182.149/22,no-resolve
+# AWS-SG
+IP-CIDR,52.76.233.225/22,no-resolve
+# AZ-JP
+IP-CIDR,74.226.154.43/22,no-resolve
+# BG
+IP-CIDR,91.148.132.41/22,no-resolve
+# WAP-SG
+IP-CIDR,45.145.154.88/22,no-resolve
+# 
+# 域名端
+# 自建域名
+DOMAIN-SUFFIX,tiful.fun
+DOMAIN-SUFFIX,winful.ac.cn
+# 其他
+DOMAIN,r2.cloudflarestorage.com
+
+
